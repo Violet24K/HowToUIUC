@@ -8,8 +8,9 @@ ZJUI学生大学期间会在UIUC进行为期一到两学期的交换，但奈何
 ## How to contribute  
 fork并添加自己的想法后提交pull request即可，我会时常关注本库。  
 
-## UIUC地图
+## UIUC地图（单击查看清晰大图）
 ![UIUC.PNG](img/UIUC.png)
+大部分的活动范围会在Illini Union Bookstore以北，E University Ave以南，ICON Apartments以东， Campus Circle以西区域内。
 
 ## 来UIUC前  
 
