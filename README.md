@@ -9,6 +9,7 @@ ZJUI学生大学期间会在UIUC进行为期一到两学期的交换，但奈何
 fork并添加自己的想法后提交pull request即可，我会时常关注本库。  
 
 ## UIUC地图
+![UIUC.PNG](img/UIUC.png)
 
 ## 来UIUC前  
 
@@ -17,4 +18,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 ### 租房
 
 ### 必备app
+
+
+
 
