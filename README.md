@@ -18,7 +18,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 ## 来UIUC前  
 
 ### 机票 + 出发时注意事项   
-可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/)，美国联合航空，加拿大航空，中国南方航空，汉莎航空
+可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/)，[美国联合航空](https://www.united.com/zh-hans/cn/)，[加拿大航空](https://www.aircanada.com/ca/zh/aco/home.html)，[中国南方航空](https://www.csair.com/cn/)，[汉莎航空](https://www.lufthansa.com/cn/zh/homepage)，[国泰航空](https://www.cathaypacific.com/cx/zh_HK.html)，[厦门航空](https://www.xiamenair.com/zh-cn/)
 
 ### 租房
 20级学生大多已经租好，暂不开发
