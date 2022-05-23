@@ -17,7 +17,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 
 ## 来UIUC前  
 
-### 机票 + 出发时注意事项
+### 机票 + 出发时注意事项   
 
 ### 租房
 20级学生大多已经租好，暂不开发
@@ -48,7 +48,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 ### 购买食材
 
 ### 做点吃的
-
+https://github.com/Anduin2017/HowToCook
 ### TD Test + 接种疫苗
 
 
