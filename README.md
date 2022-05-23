@@ -18,7 +18,15 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 ## 来UIUC前  
 
 ### 机票 + 出发时注意事项   
-可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/)，[美国联合航空](https://www.united.com/zh-hans/cn/)，[加拿大航空](https://www.aircanada.com/ca/zh/aco/home.html)，[中国南方航空](https://www.csair.com/cn/)，[汉莎航空](https://www.lufthansa.com/cn/zh/homepage)，[国泰航空](https://www.cathaypacific.com/cx/zh_HK.html)，[厦门航空](https://www.xiamenair.com/zh-cn/)
+可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/)，[美国联合航空](https://www.united.com/zh-hans/cn/)，[加拿大航空](https://www.aircanada.com/ca/zh/aco/home.html)，[中国南方航空](https://www.csair.com/cn/)，[汉莎航空](https://www.lufthansa.com/cn/zh/homepage)，[国泰航空](https://www.cathaypacific.com/cx/zh_HK.html)，[厦门航空](https://www.xiamenair.com/zh-cn/)  
+
+2022年1月时，各大航空公司基本都需要临行前24小时的核酸检测阴性证明，可以到海宁市人民医院进行检测，上午检测下午（6小时到8小时左右）就能出结果。学校位置比较偏不好打车，建议提前约车。  
+
+在预订机票时记得咨询航空公司相应航班是不是行李直挂（行李办理完托运直接到目的地，中转时不需要自己重新拿行李办托运手续）。建议选择行李直挂的航班（中转办托运据说需要2小时以上，请注意中转所需时间）。  
+
+对于订票人数比较多的航班，可以询问学院能否统一安排车辆前往机场（我认为要求学院安排并不过分，毕竟是年级规模的交换）。一般的巴士行李区并不能容纳每个乘客两个行李箱，提醒学院计算位置时考虑行李区放不下的行李。 
+
+
 
 ### 租房
 20级学生大多已经租好，暂不开发
