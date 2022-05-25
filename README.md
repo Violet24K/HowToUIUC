@@ -67,7 +67,7 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 
 材料的话，至少需要：  
 1. （身份证+护照） 的 （原件+复印件）  
-2. UIUC官网上下载的疫苗表。不需要提前填写
+2. UIUC官网上下载的疫苗表。不需要提前填写。大概长这样：![immunization.pdf](file/Immunization%20History-601-with%20Upload-fillable.pdf)
 3. 新冠疫苗的接种记录及复印件（海宁接种的话会有一个小纸条接种记录）
 4. 小时候的疫苗接种本+复印件（这个不同地方的不一样）
 5. financial support复印件
