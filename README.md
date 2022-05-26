@@ -125,6 +125,8 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 ### 做点吃的
 https://github.com/Anduin2017/HowToCook  
 
+### 一些奇怪的USA家具使用方法
+
 ### TD Test + 接种疫苗
 
 
