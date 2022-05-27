@@ -108,10 +108,11 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 ![CHICAGO.PNG](img/Chicago.png)
 
 ### 必备app
-科学上网/梯子
+科学上网/梯子 + 回国加速器
 Google Chrome浏览器 + Google搜索引擎
 Amazon在线购物
 Uber打车
+
 
 
 ## 初到UIUC
