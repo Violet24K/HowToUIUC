@@ -152,7 +152,7 @@ AT&T贵有贵的道理。其套餐一般拥有无限流量+无限时长通话。
 
 MintMobile一般是每月4GB流量+无限通话（貌似税前只需15刀每月），当然也有进阶套餐（流量多点，价格贵点）。貌似需要网上提前订购，手机号完全是随机摇的，快递到买家给的地址（也就是说，在入住之前只能快递给在UIUC且认识的人手里，除非你可以忍受龟速快递，以及来美国第一个星期都没有手机卡）。ZJUI是有很多毕业生在UIUC继续深造的，如果选择mintmobile的话来之前可以联系一下帮忙收一下手机卡。
 
-办理手机卡还需要注意的一点是，要确认自己的手机型号以及频段可以使用所办的手机卡。如果不匹配还是很头疼的（我的OnePlusRT9就无法使用MintMobile的卡）。以打算办理AT&T为例，来之前务必谷歌搜一下"AT&T IMEI check"或者"AT&T compatible check"，输入手机的IMEI码(International Mobile Equipment Identity，每个手机会有至少一个unique IMEI，至于怎么查不同的手机不一样，不过都是在类似关于本机->状态信息的地方可以看到)。
+办理手机卡还需要注意的一点是，要确认自己的手机型号以及频段可以使用所办的手机卡。如果不匹配还是很头疼的（我的OnePlusRT9就无法使用MintMobile的卡）。以打算办理AT&T为例，来之前务必谷歌搜一下"AT&T IMEI check"或者"AT&T compatible check"，输入手机的IMEI码(International Mobile Equipment Identity，每个手机会有至少一个unique IMEI，至于怎么查不同的手机不一样，不过都是在类似关于本机->状态信息的地方可以看到)。如果各种不兼容，建议换一部手机。
 
 
 
