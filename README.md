@@ -144,7 +144,7 @@ UIUC bus或者Illini Bus。查公交车到站信息的。UIUC这边没地铁。�
 
 至于具体的选择，抛开香槟不谈的话，可以参考这篇文章: https://zhuanlan.zhihu.com/p/28740648
 
-如果是在UIUC的话，我所了解的大多同学在这四家之中会选择AT&T。然鹅AT&T的
+如果是在UIUC的话，我所了解的大多同学在这四家之中会选择AT&T。然鹅AT&T的价格有些令人难以接受（折算成人民币含税可达每月500元），所以会有一些同学选择比较省钱的[MintMobile](https://www.mintmobile.com/)
 
 
 ### 学生卡
