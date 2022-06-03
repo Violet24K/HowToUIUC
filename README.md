@@ -234,6 +234,8 @@ ISSS: International Studetn and Scholar Services
 
 https://isss.illinois.edu/
 
+来之前把这个网站上"Students"部分都看一遍，用谷歌浏览器自带的翻译功能看一遍也行。
+
 
 ## 春假&秋假 USA 旅游攻略
 
