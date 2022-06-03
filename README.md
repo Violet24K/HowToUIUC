@@ -182,7 +182,7 @@ PNC会给你一个人开一张储蓄卡与三个账号：一个用来短期消�
 
 PNC有两个挺方便的功能：在线转账和在线支付。
 
-![PNC.PNG](img/PNC.png)
+<img src="img/PNC.png" width = 50%>
 
 ### 核酸检测
 
