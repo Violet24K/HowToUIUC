@@ -230,6 +230,9 @@ https://github.com/Anduin2017/HowToCook
 
 J-1签证进行校内（包括TA）&校外工作都需要ISSS的批准，千万不要偷偷打黑工（同样遣返）！
 
+ISSS: International Studetn and Scholar Services
+
+https://isss.illinois.edu/
 
 
 ## 春假&秋假 USA 旅游攻略
