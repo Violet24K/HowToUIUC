@@ -246,7 +246,9 @@ https://github.com/Anduin2017/HowToCook
 ### Drive Cars
 
 ### Academic Integrity
-
+https://github.com/Violet24K/UIUC-Academic-Integrity
+千万不要触碰国外大学的红线！
+ZJUI（以及大多数其他国内大学）学术诚信做的真不行，没有应有的执行和处罚力度。切记在UIUC如果坐实学术不端，作业合作真的会被降档，作业抄袭真的会给F，考试舞弊真的会被退学！
 
 ## gallery@UIUC
 
