@@ -203,7 +203,7 @@ https://github.com/Anduin2017/HowToCook
 
 ### 一些奇怪的USA家具使用方法
 
-### TD Test + 接种疫苗
+### TB Test + 接种疫苗
 
 
 
