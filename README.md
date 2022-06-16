@@ -193,6 +193,11 @@ PNC有两个挺方便的功能：在线转账和在线支付。
 我用的是🍎手机。到这个页面之后点Pay with 🍎 Pay就可以把手机当信用卡刷了。非常的好用。
 
 ### 核酸检测
+美国目前所使用的的核酸检测方法还是挺怪的（唾液检测）。核酸检测的目的主要有两个，一看自己是不是阳了，二是获得building access。
+
+building access是在uiuc的官方软件Illinois里可以看到的，进学校很多建筑的时候会有类似志愿者的查building access，不过有时候没有志愿者也可以随便进。
+
+<img src="img/Illinois.png" width = 50%>
 
 ### 购买必需品
 
