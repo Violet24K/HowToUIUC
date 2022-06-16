@@ -199,6 +199,10 @@ building access是在uiuc的官方软件Illinois里可以看到的，进学校�
 
 <img src="img/Illinois.png" width = 50%>
 
+测试点在Test Location里查看，一般是下午5点下班。Illini Union的检测点大概是最热闹的，NCSA附近也有一个检测点。
+
+检测时需要先跟工作人员登记或确认一下个人信息（姓名、生日、电话号码之类的），然后会问你要漏斗(funnel)还是要吸管，个人觉得漏斗比较好用。之后会给你个很小的容器（目测5ml），之后尽最大努力分泌唾液且设法移入容器，放到出口的工作人员处即可。一般12小时左右出报告。在[McKinley](https://mymckinley.illinois.edu/)看结果。
+
 ### 购买必需品
 
 ### 购买食材
