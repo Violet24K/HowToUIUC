@@ -266,9 +266,9 @@ https://isss.illinois.edu/
 
 
 ## 春假&秋假 USA 旅游攻略
-https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw  
 Credit: [Reself](https://github.com/Reself-C)  
-
+https://reself-c.github.io/travelUSA  
+Official Account(***subscrib!***): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw   
 ## 其他热议话题
 
 ### COVID-19
