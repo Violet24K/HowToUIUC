@@ -269,13 +269,6 @@ https://isss.illinois.edu/
 https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw  
 Credit: [Reself](https://github.com/Reself-C)  
 
-
-### 东部
-
-### 中部
-
-### 西部
-
 ## 其他热议话题
 
 ### COVID-19
