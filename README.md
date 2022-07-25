@@ -305,9 +305,7 @@ Credit: [Reself Chai](https://github.com/Reself-C)
 https://reself-c.github.io/travelUSA  
 Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw   
 
-<img src="img/OpenSourceMind.png" width = 30%>
-
-<img src="img/Illinois.png" width = 50%>
+<img src="img/OpenSourceMindQR.png" width = 50%>
 
 ## 其他热议话题
 
