@@ -75,6 +75,8 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 5. financial support复印件
 6. 2寸照片
 
+疫苗表由工作人员填好以后记得去McKinley网站上传一下: https://illinois.medicatconnect.com/docupload.aspx
+
 另外就是，如果疫苗有货的话，可以补打一下UIUC要求的疫苗。国内大多数地方都差一到两针麻腮风以及百白破。当然也可以选择来UIUC白嫖医疗保险。具体会在“初到UIUC：TD Test + 接种疫苗”部分说明。
 
 宁波也有一个可以办理国际卫生手续的地方。蹲一个宁波朋友填坑。
@@ -232,6 +234,35 @@ UIUC学校里倒是有很多接水的地方，且有出水口允许没有接水�
 ![Drink.PNG](img/Drink.png)
 
 ### TB Test + 接种疫苗
+先放一些网站链接：
+
+McKinley Health Center: https://mymckinley.illinois.edu/
+
+CVS Pharmacy: https://www.cvs.com/pharmacy/v2/#/pharmacy
+
+Walgreens: https://www.walgreens.com/
+
+注射新冠疫苗(辉瑞或莫德纳)可以在CVS或者Walgreen预约，绿街上就有一家Walgreens。去上面的链接里找Covid-19 Vaccination预约。
+
+TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley Health Center解决：
+
+![McKinley.PNG](img/McKinley.png)
+
+**如果不按时完成TB Test以及疫苗注射，UIUC会在开学三星期左右锁掉你的选课系统**
+
+比较困难的一点是，TB Test和UIUC要求的疫苗都要通过打电话给McKinley预约: (217) 333-2702 (2022年春学期曾经是这个号码)。大概会索要你的姓名，UIN，生日来核对你是本人预约。如果是打疫苗预约，具体要打什么疫苗是不需要说明的，到了预约日当天McKinley的工作人员会根据你之前上传的疫苗表确定你当天要注射的疫苗，并告知你每种疫苗下一针何时接种。刚到UIUC基本上每个月都得去一趟McKinley。你也可以在工作人员选疫苗的时候提出自己的疫苗需求，比如HPV疫苗。
+
+**报销流程**
+
+打完疫苗后工作人员会给你一个小卡片告诉你如何通过学生医疗保险报销（确实挺贵的，但是保险应该更贵）。
+
+先去McKinley网站上"$Bill Stat & Event Confirm"这里找到希望报销的疫苗的Statement，然后去医疗保险网站: https://www.uhcsr.com/ (UIUC2022年春学期曾用)
+
+登陆进去以后大概长这样:
+
+![claim.PNG](img/claim.png)
+
+点进去以后填好报销信息，在UPLOAD DOCUMENT这里上传McKinley网上的Statement，提交即可。**交之前要确认一下MyProfile->Personal Info里的"US Mailing Address"是你自己的信箱地址**。McKinley声称会在几个星期后以支票形式送到你的信箱里。我自己因为地址填错了血亏500多刀😭。
 
 
 
