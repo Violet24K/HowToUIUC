@@ -307,6 +307,8 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 
 <img src="img/OpenSourceMind.png" width = 30%>
 
+<img src="img/Illinois.png" width = 50%>
+
 ## 其他热议话题
 
 ### COVID-19
