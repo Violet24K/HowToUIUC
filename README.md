@@ -304,7 +304,7 @@ https://isss.illinois.edu/
 Credit: [Reself Chai](https://github.com/Reself-C)  
 https://reself-c.github.io/travelUSA  
 Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw   
-![OpenSourceMind](img/OpenSourceMind.PNG)
+<img src="img/OpenSourceMind" width = 30%>
 ## 其他热议话题
 
 ### COVID-19
