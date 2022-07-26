@@ -203,6 +203,8 @@ PNC有两个挺方便的功能：在线转账和在线支付。
 
 building access是在uiuc的官方软件Illinois里可以看到的，进学校很多建筑的时候会有类似志愿者的查building access，不过有时候没有志愿者也可以随便进。
 
+**2022.8更新**：Building Access Status will no longer be active for the Fall 2022 semester in the Illinois app or the Boarding Pass. You should not ask anyone to prove their vaccination or testing status.
+
 <img src="img/Illinois.png" width = 50%>
 
 测试点在Test Location里查看，一般是下午5点下班。Illini Union的检测点大概是最热闹的，NCSA附近也有一个检测点。
