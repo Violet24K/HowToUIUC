@@ -45,9 +45,10 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 最后滴最后，趁着还在国内，珍惜那些来了美国就见不到了的东西（如食堂一楼的红豆双皮奶）吧！
 
 ### 签证  
+写这个太麻烦了，我先摆着
 
 ### 租房
-20级学生大多已经租好，暂不开发
+20级学生大多已经租好，暂不开发，先摆着
 
 ### 信用卡&消费准备&消费文化差异
 美国消费方式还停留在pos机的阶段，并没有任何一家公司实现了诸如wx或zfb的移动支付“大一统”。  
@@ -274,15 +275,67 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 
 ## 活在UIUC（并且争取活得滋润）
 
-### 餐厅
+### 餐厅（排名无先后）
+我去过的中餐厅（除了panda express都能用中文点餐）：
+
+蒲月巷 Mid Summer Lounge（绿街上，面食）
+
+老四川 Lao Sze Chuan（latitude楼下，川菜）
+
+万家香 Cravings （绿街北，🍚，价格比较实惠）
+
+麦香村 Golden Wheat（绿街上，面食）
+
+麻辣烫 Spicy Tang（绿街北，店如其名）
+
+重庆川菜 EVO Cafe (绿街南，店如其名)
+
+伊面园 (面食+西北风味，中午有米饭套餐)
+
+东海渔村 (粤菜)
+
+HotWok (CC旁边，快餐)
+
+Panda Express (绿街上，快餐)
+
+功夫茶 Kung Fu Tea (新开的亚洲餐厅，价格小贵)
+
+Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了叫啥了
+
+
 
 ### 咖啡厅&奶茶店
+图书馆一楼咖啡厅 Royal Espresso
+
+ECE Building一楼咖啡厅Daily Byte
+
+Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
+
+绿街和S Wright Street交叉口Cocomero奶茶店
+
+老虎堂Tiger Sugar
+
+绿街北，麻辣烫对面 朝茶 TSAō·CHA
+
+绿街上 Teamoji
+
+
+
 
 ### 交通
 
 ### 打印服务
 
 ### 购物
+Urbana-Champaign西北Walmart
+
+绿街上Target
+
+Icon附近County Market
+
+远东超市
+
+Amazon
 
 ### 上课的地方
 
