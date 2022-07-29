@@ -215,8 +215,10 @@ building access是在uiuc的官方软件Illinois里可以看到的，进学校�
 一次building access会持续到检测阳性或者长假期结束（春秋假、寒暑假）。我的评价是新冠在美国就是流行性感冒罢了(omicron的毒性其实也并不强)。更多详见“其他热议话题”里的Covid-19部分。
 
 ### 购买必需品
+先摆着
 
 ### 购买食材
+先摆着
 
 ### 做点吃的
 https://github.com/Anduin2017/HowToCook  
