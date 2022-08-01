@@ -6,9 +6,14 @@ ZJUI学生本科期间会在UIUC进行为期一到两学期的交换，但奈何
 同时，我个人的经历毕竟有限，我也希望这能够成为一个由ZJUI社区参与开发并维护的开源项目，欢迎在UIUC有过交换经历的同学一起贡献~  
 
 ## 重要声明
-本库没有收取任何赞助，所有推荐没有任何广告成分，一切想法仅供参考。本库贡献者们不为任何曾经正确但现在错误的信息负责（我们都有自己的学业和事业，有时候真的懒得维护）。
+本库没有收取任何赞助，所有推荐没有任何广告成分，一切想法仅供参考。本库及相关资料贡献者们不为任何可能存在的错误的信息负责（本库涵盖面广、维护人员少且忙且不在UIUC常驻、消息源有限，难以对本库进行及时的更新）。
 
 本库无偿开发，永远开源。暂无任何赞助途径。
+
+## 相关资源
+[一些健康证明&签证&选课信息](https://mp.weixin.qq.com/s/DqcPoObSXLDnZVCEJxlh-g) 
+
+[部分租房信息](https://mp.weixin.qq.com/s/EjE0sXPBKt4mQ5G81otMGg)
 
 ## How to contribute  
 fork并添加自己的想法后提交pull request即可，我会时常关注本库。 
@@ -204,7 +209,7 @@ PNC有两个挺方便的功能：在线转账和在线支付。
 
 building access是在uiuc的官方软件Illinois里可以看到的，进学校很多建筑的时候会有类似志愿者的查building access，不过有时候没有志愿者也可以随便进。
 
-**2022.8更新**：Building Access Status will no longer be active for the Fall 2022 semester in the Illinois app or the Boarding Pass. You should not ask anyone to prove their vaccination or testing status.
+**2022.8更新**：Building Access Status will **no longer** be active for the Fall 2022 semester in the Illinois app or the Boarding Pass. You should not ask anyone to prove their vaccination or testing status.
 
 <img src="img/Illinois.png" width = 50%>
 
@@ -215,10 +220,14 @@ building access是在uiuc的官方软件Illinois里可以看到的，进学校�
 一次building access会持续到检测阳性或者长假期结束（春秋假、寒暑假）。我的评价是新冠在美国就是流行性感冒罢了(omicron的毒性其实也并不强)。更多详见“其他热议话题”里的Covid-19部分。
 
 ### 购买必需品
-先摆着
+UIUC的公寓入住的时候基本就只有一张桌子，一张床，一个床头柜，连个台灯都没有，浴室也没有灯泡，很多东西都需要买。如果不差钱的话绿街上的Target可以买到大多数需要的东西。我个人还是更推荐去香槟西北角的Walmart（听说最近几年在Urbana也会开一个Walmart）。打个Uber来回大概20刀左右，应该远低于Walmart物价低省下的钱。Walmart商场很大，东西挺全，灯光、卧具、应急药品、洗护用品、食材、平价衣服、厨具应有尽有，足够刚来前几天生存。
+
+Walmart有手机app，可以网上订单，基本上是第二天或者第三天晚上送达，且用UIUC大学邮箱注册可以免费试用一个月会员免配送费。如果住4B，跟室友分开时间订阅是可以白嫖一个学期会员的。
 
 ### 购买食材
-先摆着
+虽然沃尔玛确实能买到很多食材，但实在是太远了，总感觉特别麻烦。相对近一些的有郡市场County Market（icon旁边），远东超市（ovtave附近）。Target里没什么食材，但有非常多放到微波炉或烤箱里处理一下就能吃的东西，比如速冻披萨。
+
+虽然平日里可以在绿街上就餐，但冬天一定要保证冰箱里有够3天的食材，因为暴风雪随时可能来临，届时餐厅大多会关闭，且出门会非常困难。暴风雪前如果发现没吃的了要赶紧去买，要不然就是排长队+买不到想买的。
 
 ### 做点吃的
 https://github.com/Anduin2017/HowToCook  
@@ -305,6 +314,15 @@ Panda Express (绿街上，快餐)
 Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了叫啥了
 
 
+根据人均消费，我个人给出的价格梯队是
+
+一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO
+
+二梯队（15-20刀）：蒲月巷、伊面园、东海渔村
+
+三梯队（10-15刀）：麦香村、万家香
+
+四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
 
 ### 咖啡厅&奶茶店
 图书馆一楼咖啡厅 Royal Espresso
@@ -320,8 +338,6 @@ Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
 绿街北，麻辣烫对面 朝茶 TSAō·CHA
 
 绿街上 Teamoji
-
-
 
 
 ### 交通
