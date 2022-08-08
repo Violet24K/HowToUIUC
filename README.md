@@ -290,14 +290,19 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 我去过的中餐厅（除了panda express都能用中文点餐）：
 
 蒲月巷 Mid Summer Lounge（绿街上，面食）
+<img src="img/midsummerlounge/midsummerloungemenu.png" width = 100%>
 
 老四川 Lao Sze Chuan（latitude楼下，川菜）
+<img src="img/laozechuan/1.png" width = 100%>
+<img src="img/laozechuan/2.png" width = 100%>
+<img src="img/laozechuan/3.png" width = 100%>
 
 万家香 Cravings （绿街北，🍚，价格比较实惠）
 
 麦香村 Golden Wheat（绿街上，面食）
 
 麻辣烫 Spicy Tang（绿街北，店如其名）
+<img src="img/spicytang/spicytang.png" width = 50%>
 
 重庆川菜 EVO Cafe (绿街南，店如其名)
 
@@ -325,9 +330,7 @@ Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了
 四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
 
 
-<img src="img/laozechuan/1.png" width = 100%>
-<img src="img/laozechuan/2.png" width = 100%>
-<img src="img/laozechuan/3.png" width = 100%>
+
 
 ### 咖啡厅&奶茶店
 图书馆一楼咖啡厅 Royal Espresso
@@ -349,6 +352,7 @@ Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
 <img src="img/teamoji/3.png" width = 75%>
 <img src="img/teamoji/4.png" width = 75%>
 <img src="img/teamoji/5.png" width = 75%>
+<img src="img/teamoji/teamoji.png" width = 75%>
 
 
 
