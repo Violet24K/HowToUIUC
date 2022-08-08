@@ -325,9 +325,9 @@ Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了
 四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
 
 
-<img src="img/laozechuan/1.png" width = 75%>
-<img src="img/laozechuan/2.png" width = 75%>
-<img src="img/laozechuan/3.png" width = 75%>
+<img src="img/laozechuan/1.png" width = 100%>
+<img src="img/laozechuan/2.png" width = 100%>
+<img src="img/laozechuan/3.png" width = 100%>
 
 ### 咖啡厅&奶茶店
 图书馆一楼咖啡厅 Royal Espresso
