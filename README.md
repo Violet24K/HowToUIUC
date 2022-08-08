@@ -325,9 +325,9 @@ Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了
 四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
 
 
-<img src="img/laozechuan/1.png" width = 50%>
-<img src="img/laozechuan/2.png" width = 50%>
-<img src="img/laozechuan/3.png" width = 50%>
+<img src="img/laozechuan/1.png" width = 75%>
+<img src="img/laozechuan/2.png" width = 75%>
+<img src="img/laozechuan/3.png" width = 75%>
 
 ### 咖啡厅&奶茶店
 图书馆一楼咖啡厅 Royal Espresso
@@ -344,11 +344,11 @@ Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
 
 绿街上 Teamoji
 
-<img src="img/teamoji/1.png" width = 50%>
-<img src="img/teamoji/2.png" width = 50%>
-<img src="img/teamoji/3.png" width = 50%>
-<img src="img/teamoji/4.png" width = 50%>
-<img src="img/teamoji/5.png" width = 50%>
+<img src="img/teamoji/1.png" width = 75%>
+<img src="img/teamoji/2.png" width = 75%>
+<img src="img/teamoji/3.png" width = 75%>
+<img src="img/teamoji/4.png" width = 75%>
+<img src="img/teamoji/5.png" width = 75%>
 
 
 
