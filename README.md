@@ -470,9 +470,9 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 * 信用卡(credit card)相对于debit card有开户奖励和消费按百分比返现等优势，而转账时则一般有额外手续费，因此credit card更适合在美国的各种日常消费。
 
 ### 时间线
-* 想要暑期实习的同学应参加秋招，从7-9月开始投简历。在拿offer之前的过程和准备（准备简历，刷LC，OA，VO，potentially Group Match，等等）皆可参考一亩三分地等其他来源。拿intern offer之后可使用offer申请Academic Training。
+* 想要暑期实习的同学应参加秋招，从7-9月开始投简历。在拿offer之前的过程和准备（准备简历，刷LC，OA，VO，potentially Group Match，等等）皆可参考一亩三分地等其他来源。拿intern offer之后可使用offer申请Academic Training，拿到extended DS2019。
 
-* 想要暑研的同学应在Spring学期或更早联系教授进组。套磁邮件模板可参考：[套磁模板.pdf](file/ApplyResearch.pdf)
+* 想要暑研的同学应在Spring学期或更早联系教授进组。进组后可向教授要一份证明信，申请Academic Training，拿到extended DS2019。给教授的套磁邮件模板可参考：[套磁模板.pdf](file/ApplyResearch.pdf)
 
 * 3月左右，Erika会详细讲解关于Academic Training的事情。总之你只要拿到intern offer或进组了，那一定是能以AT的名义拿到extended DS2019，并以此在暑期留在美国的。
 
@@ -485,7 +485,7 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 然后在官网：https://www.ssa.gov/number-card/request-number-first-time 申请SSN即可
 
 ### 申请信用卡
-由于大多数人是0信用记录，高端大气上档次如chase的credit card是申请不到的，因而一般申请的是discover卡。多刷这张卡，有了几个月的信用记录后就能(potentially)在研究生阶段申请福利更好的卡了。
+由于大多数人是0信用记录，高端大气上档次如chase的credit card是申请不到的，因而一般申请的是discover卡。多刷这张卡，如果你研究生也在美国的话，有了几个月的信用记录，就能在研究生阶段申请福利更好的信用卡了。
 ## 其他热议话题
 
 ### COVID-19
