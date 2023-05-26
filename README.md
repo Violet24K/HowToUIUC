@@ -1,3 +1,57 @@
+- [UIUC生存指南](#uiuc生存指南)
+  - [重要声明](#重要声明)
+  - [相关资源](#相关资源)
+  - [How to contribute](#how-to-contribute)
+  - [UIUC地图（单击查看清晰大图）](#uiuc地图单击查看清晰大图)
+  - [来UIUC前](#来uiuc前)
+    - [机票 + 出发时注意事项](#机票--出发时注意事项)
+    - [签证](#签证)
+    - [租房](#租房)
+    - [信用卡\&消费准备\&消费文化差异](#信用卡消费准备消费文化差异)
+    - [疫苗](#疫苗)
+    - [海关](#海关)
+    - [Chicago-\>UIUC](#chicago-uiuc)
+    - [必备app](#必备app)
+  - [初到UIUC](#初到uiuc)
+    - [手机卡\&网络](#手机卡网络)
+    - [华为用户指引](#华为用户指引)
+    - [学生卡](#学生卡)
+    - [银行卡](#银行卡)
+    - [核酸检测](#核酸检测)
+    - [购买必需品](#购买必需品)
+    - [购买食材](#购买食材)
+    - [做点吃的](#做点吃的)
+    - [一些奇怪的USA家具使用方法](#一些奇怪的usa家具使用方法)
+    - [TB Test + 接种疫苗](#tb-test--接种疫苗)
+  - [活在UIUC（并且争取活得滋润）](#活在uiuc并且争取活得滋润)
+    - [餐厅（排名无先后）](#餐厅排名无先后)
+    - [咖啡厅\&奶茶店](#咖啡厅奶茶店)
+    - [交通](#交通)
+    - [打印服务](#打印服务)
+    - [购物](#购物)
+    - [上课的地方](#上课的地方)
+    - [学习的好地方](#学习的好地方)
+    - [课余活动](#课余活动)
+    - [J-1签证注意事项](#j-1签证注意事项)
+  - [春假\&秋假 USA 旅游攻略](#春假秋假-usa-旅游攻略)
+  - [暑期研究/暑期实习/SSN/信用卡](#暑期研究暑期实习ssn信用卡)
+    - [时间线](#时间线)
+    - [申请SSN](#申请ssn)
+    - [申请信用卡](#申请信用卡)
+  - [骚操作提高绩点](#骚操作提高绩点)
+    - [选研究生课程](#选研究生课程)
+    - [选ECE 397](#选ece-397)
+    - [选一堆通识](#选一堆通识)
+  - [其他热议话题](#其他热议话题)
+    - [COVID-19](#covid-19)
+    - [Safety in USA](#safety-in-usa)
+    - [Drive Cars](#drive-cars)
+    - [Academic Integrity](#academic-integrity)
+  - [gallery@UIUC](#galleryuiuc)
+  - [离开UIUC，漫漫回国路](#离开uiuc漫漫回国路)
+    - [美国直飞](#美国直飞)
+    - [香港路线](#香港路线)
+
 # UIUC生存指南  
 ZJUI学生本科期间会在UIUC进行为期一到两学期的交换，但奈何学院刚刚诞生不久且在临行准备方面并不活跃，并没有人指导在UIUC具体的生存办法。这让同学们在赴UIUC交换前一学期忙碌课业的同时忧心忡忡，或来了UIUC以后才发现准备有遗漏，且给了一些不懂装懂的第三方（如奚爸）发挥的舞台。可谓是大本钟下送快递，上面开摆下面寄。  
 
@@ -374,6 +428,7 @@ Urbana-Champaign是有公交车的，并且校内范围公交车都是免费的�
 
 有一辆单车的话，去超市，教室，药店的时间都可以缩短一大半。UIUC附近有很多地方可以买到单车。最贵的在W University Ave上，叫 Durst Cycle，里面的单车都在1000美刀左右。稍微低一点价格的单车可以在沃尔玛买到，三四百刀左右。最便宜划算的是Campus Circle旁边的当铺，也就是一个二手商店，叫Pawn King，里面的单车都在一百刀左右。除了单车，Pawn King还有大量便宜实惠的二手商品，比如apple watch，显示器，电脑，吸尘器等等。值得注意的是，在香槟偷窃行为非常常见，因为学校旁边就是贫民区，所以一定要买一个好一点的锁（建议U型锁加锁链），把车架，前后车轮都拴好。
 
+
 ### 打印服务
 
 ### 购物
@@ -413,6 +468,41 @@ https://reself-c.github.io/travelUSA
 Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7gTw   
 
 <img src="img/OpenSourceMindQR.png" width = 25%>
+
+## 暑期研究/暑期实习/SSN/信用卡
+* 交换一年的同学有机会通过Academic Training(AT)的名义参与暑期研究、暑期实习，并拿到SSN、以此申请信用卡。
+* AT名义上需要“与你的专业高度相关”，实际上只要是Engineering领域的都行，譬如EE做CS的AT、ME做CS的AT 都是允许的。
+* 信用卡(credit card)相对于debit card有开户奖励和消费按百分比返现等优势，而转账时则一般有额外手续费，因此credit card更适合在美国的各种日常消费。
+
+### 时间线
+* 想要暑期实习的同学应参加秋招，从7-9月开始投简历。在拿offer之前的过程和准备（准备简历，刷LC，OA，VO，potentially Group Match，等等）皆可参考一亩三分地等其他来源。拿intern offer之后可使用offer申请Academic Training，拿到extended DS2019。
+
+* 想要暑研的同学应在Spring学期或更早联系教授进组。进组后可向教授要一份证明信，申请Academic Training，拿到extended DS2019。给教授的套磁邮件模板可参考：[套磁模板.pdf](file/ApplyResearch.pdf)
+
+* 3月左右，Erika会详细讲解关于Academic Training的事情。总之你只要拿到intern offer或进组了，那一定是能以AT的名义拿到extended DS2019，并以此在暑期留在美国的。
+
+### 申请SSN
+书接上回，准备好三样东西即可申请SSN：
+1. 用AT拿到的extended DS2019
+2. 护照
+3. 最新I-94并打印 （可在官网 https://i94.cbp.dhs.gov/I94/#/home )点击get most recent I-94 获取PDF
+
+然后在官网：https://www.ssa.gov/number-card/request-number-first-time 申请SSN即可
+
+### 申请信用卡
+由于大多数人是0信用记录，高端大气上档次如chase的credit card是申请不到的，因而一般申请的是discover卡。多刷这张卡，如果你研究生也在美国的话，有了几个月的信用记录，就能在研究生阶段申请福利更好的信用卡了。
+
+## 骚操作提高绩点
+### 选研究生课程
+* 研究生课程大多比本科专业课容易拿分，却反而看起来很厉害，一举两得。
+* 申请方法：发邮件约教授或直接去上课地点 找任课教授聊聊，说想上这门课。若他同意你选这门课，就请他用UIUC邮箱发一封邮件给你，内容为“我同意XXX(your name)选 XX 5XX (course name)”，然后你拿着电脑和这封邮件去CS/ECE advising让advisor帮你注册这门课。
+### 选ECE 397
+* 你和教授关系好即可轻松拿A。
+* 一般是套磁进组之后，和教授说你需要一个ECE 397来抵学分, so that I could pay more attention to the project you gave me. 然后在官网 https://publish.illinois.edu/eceprojects/ 下载表格打印，project outline随便填填，然后给教授签字。把教授签完字的表格拍照，发封邮件给Kudeki，他会approve然后联系ECE advising的人帮你走最后的注册课程流程。 
+* 有些教授即使你不进组也会给你开397。但个人觉得这就没啥意义了，大多还是会给你不少任务。不如选择其他水课。
+  
+### 选一堆通识
+急需拉高UIUC GPA而受不了多门专业课的小伙伴可试试。但UIUC的那些水通识只是容易拿A，workload并不算小。参考 https://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/
 
 ## 其他热议话题
 
