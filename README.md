@@ -479,7 +479,7 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 
 好吃的地方：
 
-![UIUC_FOOD](./README.assets/UIUC_FOOD.jpg)
+![UIUC_FOOD](img/UIUC_FOOD.jpg)
 
 ### 餐厅（排名无先后）
 我去过的中餐厅（除了panda express都能用中文点餐）：
