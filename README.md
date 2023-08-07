@@ -214,7 +214,7 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 美国入境的同学来填坑了。美国本土入境相当方便，不过这个可能和我所做的卡塔尔航班有关。一下飞机就来到了一个很长的队伍排队，排到你了就会被问几个问题，和签证问的问题差不多。问完问题后就过关了，取了行李就可以直接取住宿的地方，整个过程快的话二三十分钟。
 
 ### Chicago->UIUC  
-从芝加哥奥黑尔机场到香槟UIUC还有一段很漫长的距离，19级当时进行了包车（也方便放行李）。另外就是机场其实是有Peoria Charter（一个大巴公司，简称PC）直达香槟的，如果没有包车选项可以考虑一下。PC的票在[PC官网](https://peoriacharter.com/)购买，Departure选O'Hare Multi-Modal Facility, Arrival选Illinois Terminal, Armory, ISR都可以(https://peoriacharter.com/findmystop)。在芝加哥O'Hare机场有很多Terminals，由机场轻轨连接。坐机场快线轻轨到Car Renting/MMF这个站就是Peoria Charter的始发站。
+从芝加哥奥黑尔机场到香槟UIUC还有一段很漫长的距离，19级当时进行了包车（也方便放行李）。另外就是机场其实是有Peoria Charter（一个大巴公司，简称PC）直达香槟的，如果没有包车选项可以考虑一下。PC的票在[PC官网](https://peoriacharter.com/)购买，Departure选O'Hare Multi-Modal Facility, Arrival选Illinois Terminal, Armory, ISR都可以。[具体位置](https://peoriacharter.com/findmystop)。在芝加哥O'Hare机场有很多Terminals，由机场轻轨连接。坐机场快线轻轨到Car Renting/MMF这个站就是Peoria Charter的始发站。
 
 也有第三方会提供留学生接机，价格一般在250-350刀。其他办法的话其实不太推荐了（毕竟要带着很多行李）。芝加哥的Union Station有火车可以到达香槟，另外就是一些公司会运营芝加哥到香槟的公交线路。具体线路可以在Google Map上搜索。机场到Union Station直线距离其实都已经有20公里了。具体可见下图。  
 
