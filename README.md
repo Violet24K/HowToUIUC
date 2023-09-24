@@ -502,18 +502,20 @@ Panda Express (绿街上，快餐)
 
 功夫茶 Kung Fu Tea (新开的亚洲餐厅，价格小贵)
 
+Szechuan Taste （绿街南，EVO旁边，我一般叫新四川）
+
 Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了叫啥了
 
 
 根据人均消费，我个人给出的价格梯队是
 
-一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO
+一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO、晚上的新四川
 
 二梯队（15-20刀）：蒲月巷、伊面园、东海渔村
 
 三梯队（10-15刀）：麦香村、万家香
 
-四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
+四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express、上海菜
 
 
 
