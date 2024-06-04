@@ -62,11 +62,11 @@ By 19, 20级学生 (Class of 2023, 2024)
   - [gallery@UIUC](#galleryuiuc)
 
 
-ZJUI学生本科期间会在UIUC进行为期一到两学期的交换，但奈何学院刚刚诞生不久且在临行准备方面并不活跃，并没有人指导在UIUC具体的生存办法。这让同学们在赴UIUC交换前一学期忙碌课业的同时忧心忡忡，或来了UIUC以后才发现准备有遗漏，且给了一些不懂装懂的第三方（如奚爸）发挥的舞台。可谓是**大本钟下送快递，上面开摆下面寄。**  
+ZJUI学生本科期间会在UIUC进行为期一到两学期的交换，但奈何学院刚刚诞生不久且在临行准备方面并不活跃，并没有人指导在UIUC具体的生存办法。这让同学们在赴UIUC交换前一学期忙碌课业的同时忧心忡忡，或来了UIUC以后才发现准备有遗漏，且给了一些不懂装懂的第三方（如在19级扬名立万的奚爸）发挥的舞台。可谓是**大本钟下送快递，上面开摆下面寄。**  
 
-我目前是UIUC的PhD学生，曾于2022年1月至2022年9月于UIUC交换学习，对整个交换过程（除回国）有一些亲身的体会，争取用闲暇时间记录在此，为今后ZJUI同学们赴UIUC交换提供参考。  
+我目前是UIUC CS系的PhD学生，曾于2022年1月至2022年9月于UIUC交换学习，对整个交换过程有一些亲身的体会，争取用闲暇时间记录在此，为今后ZJUI同学们赴UIUC交换提供参考，同时也希望能帮到每年来UIUC的留学生。Let's go illini!
 
-同时，我个人的经历毕竟有限，我也希望这能够成为一个由ZJUI社区参与开发并维护的开源项目，欢迎在UIUC有过交换经历的同学一起贡献~  
+不过，我个人的经历毕竟有限，我也希望这能够成为一个由ZJUI及UIUC社区参与开发并维护的开源项目，欢迎在UIUC本地留子或有过交换经历的同学一起贡献~  
 
 ## 重要声明
 - **<u>本库没有收取任何赞助，所有推荐没有任何广告成分，一切想法仅供参考。</u>**
@@ -92,7 +92,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 ## 来UIUC前  
 
 ### 机票 + 出发时注意事项   
-可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/), [美国联合航空](https://www.united.com/zh-hans/cn/), [加拿大航空](https://www.aircanada.com/ca/zh/aco/home.html), [中国南方航空](https://www.csair.com/cn/), [汉莎航空](https://www.lufthansa.com/cn/zh/homepage), [国泰航空](https://www.cathaypacific.com/cx/zh_HK.html), [厦门航空](https://www.xiamenair.com/zh-cn/), [伊蒂哈德航空ETIHAD](https://www.etihad.com), [日本航空](https://www.jal.com/index.html)
+可选航空公司（排名无先后）： [中国国际航空](https://www.airchina.com.cn/), [美国联合航空](https://www.united.com/zh-hans/cn/), [加拿大航空](https://www.aircanada.com/ca/zh/aco/home.html), [中国南方航空](https://www.csair.com/cn/), [汉莎航空](https://www.lufthansa.com/cn/zh/homepage), [国泰航空](https://www.cathaypacific.com/cx/zh_HK.html), [厦门航空](https://www.xiamenair.com/zh-cn/), [伊蒂哈德航空ETIHAD](https://www.etihad.com), [日本航空](https://www.jal.com/index.html), [土耳其航空](https://www.turkishairlines.com/)
 
 在预订机票时记得咨询航空公司相应航班是不是行李直挂（行李办理完托运直接到目的地，中转时不需要自己重新拿行李办托运手续）。建议选择行李直挂的航班（中转办托运据说需要2小时以上，请注意中转所需时间）。有些航线会在第三国（中转国）入境，比如2022年1月加拿大航空上海-温哥华-芝加哥线和2023年8月ETIHAD北京-阿布扎比-芝加哥线，请预留好入境（行李过海关、安检、过美国海关）时间。
 
@@ -233,13 +233,15 @@ Uber。打车用的。香槟这边感觉司机挺少，并且大多都朝十晚�
 
 Google Map. 谷歌地图。不解释。
 
-Uber Eats + 熊猫外卖(Hungry Panda) + Chowbus。外卖三连。
+Uber Eats + 熊猫外卖(Hungry Panda) + Chowbus。外卖三连。(2024.4: Chowbus被熊猫收购了。。。)
 
-百事AA记账（BestTracker)。出来以后消费都挺高的，很多时候是一个人买单回头再算钱。整个记账软件可以避免很多麻烦和纠纷。
+百事AA记账（BestTracker)。出来以后消费都挺高的，很多时候是一个人买单回头再算钱。整个记账软件可以避免很多麻烦和纠纷。Splitwise也不错。
 
 PNC bank或者别的境外银行。来uiuc一般会在校内的PNC银行办一张银行卡（别的银行也有，比如chase）。用PNC自带的Zelle给朋友转账还是很方便的（有点类似支付宝转账）。
 
 伊利诺伊app。UIUC官方app。主要用来出示巴士通票。
+
+DUO，用来登陆UIUC账号时手机验证的。
 
 国货严选据说可以在海外买到一些国内的产品。这个我下载了但没有试过。不知道香槟这个比较偏的地方能不能送到。
 
@@ -252,6 +254,8 @@ Veo。 UIUC目前有的共享单车。起步价1刀，之后每分钟0.2-0.35刀
 Airbnb。爱彼迎，民宿。
 
 Tripadvisor。猫途鹰，海外版大众点评。
+
+Instacart。可以买Costco杂货送货上门。运费和服务费小贵。
 
 
 
@@ -437,11 +441,9 @@ CVS Pharmacy: https://www.cvs.com/pharmacy/v2/#/pharmacy
 
 Walgreens: https://www.walgreens.com/
 
-注射新冠疫苗(辉瑞或莫德纳)可以在CVS，Walgreen或者Mckinley预约，绿街上就有一家Walgreens。但是这家Walgreens里面没有Pharmacy，不能打疫苗。去上面的链接里找Covid-19 Vaccination预约。有的时候官网的疫苗信息和实体商店里面的信息是不同步的，在去之前需要打电话和店员确认一下是否有足够的疫苗供应。
+TB Test以及杂七杂八的UIUC要求注射的疫苗都可以在McKinley Health Center解决：
 
-TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley Health Center解决：
-
-这里需要注意的是，新冠疫苗是免费的，不需要医保，而TB test和其他疫苗都需要医保，只要在你医保生效后才可以做。
+这里需要注意的是，TB test的费用学校会cover，疫苗可能需要自费。
 
 <img src="img/McKinley.png" alt="McKinley.PNG" style="zoom:67%;" />
 
@@ -476,7 +478,7 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 
 <img src="img/midsummerlounge/midsummerloungemenu.png" width = 100%>
 
-老四川 Lao Sze Chuan（latitude楼下，川菜）。菜单做的挺好的，可以记一下中英文对照的菜名。
+老四川 Lao Sze Chuan（latitude楼下，川菜）。2024年改名叫宽窄巷了。菜单做的挺好的，可以记一下中英文对照的菜名。
 
 <img src="img/laozechuan/1.png" width = 100%>
 <img src="img/laozechuan/2.png" width = 100%>
@@ -484,9 +486,11 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 
 万家香 Cravings （绿街北，🍚，价格比较实惠）
 
-麦香村 Golden Wheat（绿街上，面食）
+十秒到过桥米线。云南米线。
 
-麻辣烫 Spicy Tang（绿街北，店如其名）
+Target隔壁有一家麻辣拌。我没吃过。
+
+麻辣烫 GG Bowl（绿街北，店如其名）
 
 <img src="img/spicytang/spicytang.png" width = 50%>
 
@@ -494,9 +498,7 @@ TB Test以及其他杂七杂八的UIUC要求注射的疫苗都可以在McKinley 
 
 伊面园 (面食+西北风味，中午有米饭套餐)
 
-东海渔村 (粤菜)
-
-HotWok (CC旁边，快餐)
+HotWok (CC旁边，快餐)，中午盒饭，晚上点菜。晚上叫重庆山庄。
 
 Panda Express (绿街上，快餐)
 
@@ -504,16 +506,20 @@ Panda Express (绿街上，快餐)
 
 Szechuan Taste （绿街南，EVO旁边，我一般叫新四川）
 
-Evo再往南E John Street上有家上海菜，在Insomnia Cookies旁边，忘了叫啥了
+Evo再往南E John Street上有家上海菜，也叫懂爱小面。
+
+北味轩。东北菜。点菜的，无盒饭。
+
+Pokelab。主打健康低卡的餐厅，可以自己搭配想吃什么bowl。其实有点偏日料，我个人很喜欢～
 
 
 根据人均消费，我个人给出的价格梯队是
 
-一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO、晚上的新四川
+一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO、晚上的新四川，北味轩
 
-二梯队（15-20刀）：蒲月巷、伊面园、东海渔村
+二梯队（15-20刀）：蒲月巷、伊面园、Pokelab，重庆山庄
 
-三梯队（10-15刀）：麦香村、万家香
+三梯队（10-15刀）：万家香，上海菜，十秒到米线，中午的新四川
 
 四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express、上海菜
 
@@ -527,11 +533,13 @@ ECE Building一楼咖啡厅Daily Byte
 
 Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
 
+Bookstore里的Starbucks
+
 绿街和S Wright Street交叉口Cocomero奶茶店
 
 老虎堂Tiger Sugar
 
-绿街北，麻辣烫对面 朝茶 TSAō·CHA
+绿街南侧，愿茶。
 
 绿街上 Teamoji，UI做的也挺好看的，可以记一下饮品中英文对照名。
 
@@ -548,6 +556,8 @@ Illini（读音：yi lai nai，不是yi li ni） Union里Starbucks
 Urbana-Champaign是有公交车的，并且校内范围公交车都是免费的，不需要出示学生卡或者巴士通票。如果住在Campus Circle附近，那么22S/22N/220S/220N几条连接Campus Circle和Illini Union（离绿街很近）的线路是不二之选。220和22线路上完全一样，只是白天叫22晚上叫220。
 
 有一辆单车的话，去超市，教室，药店的时间都可以缩短一大半。UIUC附近有很多地方可以买到单车。最贵的在W University Ave上，叫 Durst Cycle，里面的单车都在1000美刀左右。稍微低一点价格的单车可以在沃尔玛买到，三四百刀左右。最便宜划算的是Campus Circle旁边的当铺，也就是一个二手商店，叫Pawn King，里面的单车都在一百刀左右。除了单车，Pawn King还有大量便宜实惠的二手商品，比如apple watch，显示器，电脑，吸尘器等等。值得注意的是，在香槟偷窃行为非常常见，因为学校旁边就是贫民区，所以一定要买一个好一点的锁（建议U型锁加锁链），把车架，前后车轮都拴好。
+
+Veo在香槟有共享单车和共享电动车，价格小贵（自行车10分钟三刀，电车10分钟四五刀的样子）。我一般是错过公交车的时候临时用一下。有限行区域的，不能离开校外太远，且停车必须在校内。
 
 
 ### 打印服务
