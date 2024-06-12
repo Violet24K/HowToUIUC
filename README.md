@@ -54,7 +54,6 @@ By 19, 20级学生 (Class of 2023, 2024)
     - [选一堆通识](#选一堆通识)
     
   - [其他热议话题](#其他热议话题)
-    - [COVID-19](#covid-19)
     - [Safety in USA](#safety-in-usa)
     - [Drive Cars](#drive-cars)
     - [Academic Integrity](#academic-integrity)
@@ -389,13 +388,13 @@ Zelle是一种数字支付网络，由美国多家主要银行共同创立，使
 我用的是🍎手机。到这个页面之后点Pay with 🍎 Pay就可以把手机当信用卡刷了。非常的好用。
 
 
-<img src="img/Illinois.png" width = 50%>
+<!-- <img src="img/Illinois.png" width = 50%>
 
 测试点在Test Location里查看，一般是下午5点下班。Illini Union的检测点大概是最热闹的，NCSA附近也有一个检测点。
 
 检测时需要先跟工作人员登记或确认一下个人信息（姓名、生日、电话号码之类的），然后会问你要漏斗(funnel)还是要吸管，个人觉得漏斗比较好用。之后会给你个很小的容器（目测5mL），之后尽最大努力分泌唾液且设法移入容器，放到出口的工作人员处即可。一般12小时左右出报告。在[McKinley](https://mymckinley.illinois.edu/)看结果。
 
-一次building access会持续到检测阳性或者长假期结束（春秋假、寒暑假）。我的评价是新冠在美国就是流行性感冒罢了(omicron的毒性其实也并不强)。更多详见“其他热议话题”里的Covid-19部分。
+一次building access会持续到检测阳性或者长假期结束（春秋假、寒暑假）。我的评价是新冠在美国就是流行性感冒罢了(omicron的毒性其实也并不强)。更多详见“其他热议话题”里的Covid-19部分。 -->
 
 ### 购买必需品
 UIUC的公寓入住的时候基本就只有一张桌子，一张床，一个床头柜，连个台灯都没有，浴室也没有灯泡，很多东西都需要买。如果不差钱的话绿街上的Target可以买到大多数需要的东西。我个人还是更推荐去香槟西北角的Walmart（听说最近几年在Urbana也会开一个Walmart）。打个Uber来回大概20刀左右，应该远低于Walmart物价低省下的钱。Walmart商场很大，东西挺全，灯光、卧具、应急药品、洗护用品、食材、平价衣服、厨具应有尽有，足够刚来前几天生存。
