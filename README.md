@@ -114,9 +114,48 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 
 ### 签证  
 
+首先本科假期不要去俄罗斯（还有北韩/朝鲜等）旅游，一张俄罗斯的签证即使过期，也会大大增加美签拒签率。
+
+#### ZJU-UIUC 交换
+
 准备好学校宣讲会要求的材料，身份证护照学校相关材料，说明清楚自己是ZJU-UIUC institute 的学生，能说明白专业和交换项目就可以。
 
 因为我们学院每年去的人特别多，基本上签证都是秒过的，不会因为你是ECE/EE就卡你，不必忧虑过多。
+
+#### 硕/博
+
+在美国读graduate program，尤其是cs/ece/ee方向的，就要准备好被check一两个月还只能拿一年签证了。每次办签证/续签都是一次折磨，大概流程记录在此。
+
+在收到硕/博offer后过一阵子学校就会发I-20表格（电子版）。 I-20就是在美学生身份的证明。签证并不影响在美的合法身份，只是入境需要。即使签证过期，凭借有效的I-20也可以在美国合法居留。
+
+拿到I-20后会看到自己的SEVIS (Student and Exchange Visitor) ID。去Department of Homeland Security (https://www.fmjfee.com/i901fee/index.html)网站叫一下SEVIS Fee，**保存好收据**.
+
+1. https://ceac.state.gov/GenNIV/Default.aspx 这是DS-160表格填写的网站，选好地点start an application. 保存好DS-160的号码（一般是AA00开头的，10位）**填完以后保存好收据**，照片需用六个月内的.
+
+2. https://www.ustraveldocs.com/ -> China或中国，语言不同而已内容一样 -> Nonimmigrant Visa -> Login (第一次办需要创建新账户). **续签需要更新DS-160号码**.
+
+3. New Application/Schedule Appointment -> Nonimmigrant Visa, choose location -> choose visa type -> Payment (F1 visa: CNY 1369), **存下receipt number页**.
+
+4. 预约时间，记得**存好conformation**，面签需要打印.
+
+面签必备材料（只是必备材料，大使馆也可能根据项目要其他材料，请以个人情况为准。本人是CS系PhD项目，如其他项目材料不同概不对此负责）:
+
+- 有效护照和I-20表格
+- SEVIS Fee收据(I-901 Payment)
+- DS160确认页 (step 2 conformation)
+- 签证预约确认页(step 4 conformation)
+- 一张白底51mm*51mm的照片
+- admission letter
+- 简历(CV, resume); 学习计划(study plan)
+- 已有学位证和成绩单
+- 院系/项目信息(硕)；导师CV(博)
+- 存款证明以及其他经济文件
+- 托福和gre成绩也可以带，不过应该用不上
+
+
+
+
+
 
 ### 租房
 
@@ -127,7 +166,7 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 - 朝南采光好，但是过街半夜救护车等声音较大，朝北对铁路，经常会过火车
 - 泳池等于不存在，特别小图文不符一年到头没有人游泳，poor view instead of pool view
 - 如果被公寓管理歧视 ， 团结起来找BBB.com 申诉complaint, 学校的法务部门也会给予帮助
-- 如果楼内出现闯入的危险分子，及时报警，警察15分钟内上门，香槟经常有流浪汉非法入侵偷盗的现象（有同学的PS5摆在课厅被人偷走了）
+- 如果楼内出现闯入的危险分子，及时报警，警察15分钟内上门，香槟经常有流浪汉非法入侵偷盗的现象（有同学的PS5摆在客厅被人偷走了）
 
 #### Pointe 
 
