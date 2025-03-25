@@ -740,7 +740,11 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 ### Safety in USA
 
 ### Drive Cars
-伊州驾照分两次考试，笔试(Permit)和路考(Road Test).
+伊州驾照分两次考试，笔试(Permit)和路考(Road Test). 建议有SSN再考这样可以办real-ID的驾照(这样就可以用驾照买酒了)。考试在这个网站预约：https://www.ilsos.gov/
+
+考驾照要准备的材料可以参考这个文件: [材料清单.pdf](file/dsd_x173.pdf). 第一次考的话是看First-time Illinois DL/ID or First-time REAL ID这个section的材料。
+
+Champaign路考还是蛮容易挂的，尤其是one-way。多练练再去考，祝一把过！
 
 ### Academic Integrity
 https://github.com/Violet24K/UIUC-Academic-Integrity
