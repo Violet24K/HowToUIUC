@@ -82,6 +82,8 @@ ZJUI学生本科期间会在UIUC进行为期一到两学期的交换，但奈何
 
 [北美省钱快报](https://www.dealmoon.com/)
 
+[北美票帝]（https://piao.tips/）
+
 ## How to contribute  
 fork并添加自己的想法后提交pull request即可，我会时常关注本库。 
 
@@ -161,6 +163,8 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 
 ### 租房
 
+最近几年通货膨胀严重，房租也跟着猛涨。As of 2025.5.27，我个人感觉基本上比较正常的价格：4B4B中的一间价格在800-1000，2B2B中的一间价格在1200左右，1B1B价格在1500左右。
+
 #### Campus Circle 
 - Campus Circle，我们也叫CC，应该算是ZJUI来交换的大众选择了
 - Management 很差，存在乱收费/管理不作为的现象。经常有非住户在3L公共区域开party至深夜
@@ -186,7 +190,30 @@ fork并添加自己的想法后提交pull request即可，我会时常关注本�
 - 最高就三层，房间也很大，就是卫生状况和家具状态很一般
 
 
+#### Yugo/Gather: https://yugo.com/en-gb/global/united-states-of-america/urbana-il/yugo-urbana-illinois
+住过一个多月。cc平替。房子不错，也带车库，位置在cc再往东一点，价格也挺合适的。适合有车一族。
 
+#### Icon & Burnham 310
+Icon和Burnham310这两栋楼位置在county附近，读ece的话很方便，设施都比较新，价格略高但是性价比ok。
+
+
+#### The Dean & The Hub
+这俩楼除了贵没有缺点，离绿街很近生活很方便，顶层甚至有游泳池。差不多2000刀一个月，不差钱的富哥富姐无脑租就好。另外可以考虑投喂一下本贫苦博士生。
+
+#### 物业
+香槟有几家物业有很多很多房子可以选
+
+[Smile Student Living](https://www.smilestudentliving.com/): 我和这个物业签过两年的lease，房子总体上没什么问题。总部和物业住户公用的健身房在615 S Wright St. Maintainance蛮快的，但是总感觉溢价有些严重。
+
+[The University Group](https://ugroupcu.com/): 我没住过。价格比smile低一点，但是据说押金几乎退不回来（会找理由扣押金）。
+
+[JSM Living](https://www.jsmliving.com/): 我没住过。感觉是美国人很喜欢的一家物业。
+
+[Green Street Reality](https://www.greenstrealty.com/): 没住过，但感觉这家的房子地理位置都很不错。基本都在绿街附近。
+
+
+
+####
 
 
 ### 信用卡&消费准备&消费文化差异
@@ -234,7 +261,7 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 
 
 ### 海关
-就我自己过美国海关的经历而言，我感觉只要不碰这边的红线（别带不让带的，别说不该说的），问题都不大。
+就我自己本科交换过美国海关的经历而言，我感觉只要不碰这边的红线（别带不让带的，别说不该说的），问题都不大。建议自己找资源学一下海关&安检常用英文，以免工作人员指挥你你却听不懂。
 
 我当时是在加拿大温哥华转机的时候办理的入境。经过了二十小时的漫长飞行，下飞机后寻找USA方向的标示，抵达美国入境安检点。入境安检主要是检查是否带了一些允许出中国国境但是禁止入美国国境的东西。入境安检还是比较严格的，会要求倒掉水杯里的液体，将行李中的所有电子产品拿出来放到筐里，并把书包也放筐里，统一过X-ray。一般人是会比筐晚出安检的（这时候贴纸就很重要了，毕竟大家的电脑很多都长一个样子，说不定前面的人就把你的电脑错拿走了）。另外就是入境安检需要shoes off并放到另一个筐里。美国这个入境安检给我的感觉就是非常混乱。人很多但是通道很少，安检区占地面积也很小。我当时电子产品很多，electronic devices + bag + shoes总共好像用了四个筐才把东西全部放下，幸好并没有跟谁的混淆。
 
@@ -244,7 +271,7 @@ visa信用卡有很多，我自己办理的是中国银行的子母卡，还款�
 
 随后会进入大厅等待，我也不确定时在等什么，但大概同样是等待行李被处理（可能是行李也有入境手续？）。那个大厅会有一个电子告示板，当你的名字出现在告示板上时，就说明你的行李已经完全处理完毕，可以进入下一个区域办理入境手续了。所以总结起来，你的托运行李需要等待两次处理（具体是什么样的处理我并不清楚）才能入境。
 
-“小黑屋”是在这个时候发挥用处的。进小黑屋这个事情可能就是随机抽取的。我本人并没有进小黑屋。如果有进过小黑屋且愿意分享的朋友，可以填一下这个坑。
+<!-- “小黑屋”是在这个时候发挥用处的。进小黑屋这个事情可能就是随机抽取的。我本人并没有进小黑屋。如果有进过小黑屋且愿意分享的朋友，可以填一下这个坑。 -->
 
 行李被处理好之后就是最后一个入境区域了。这里有点类似收费站，会有海关官员坐在玻璃屋里问你问题。基本上就是排队+等有人叫你到对应的玻璃屋前，然后问你啥就说啥，要你啥就给啥，不问就别说，不要别给。基本上就是要一下DS2019和护照，然后问你几个问题（我当时被问的是：来的目的（交换），在什么地方（UIUC，一定记得全称是University of Illinois (at可以有也可以没有） Urbana Champaign），住哪里（学校旁边的apartment））然后就过了。
 
@@ -443,7 +470,8 @@ UIUC的公寓入住的时候基本就只有一张桌子，一张床，一个床�
 
 Walmart有手机app，可以网上订单，基本上是第二天或者第三天晚上送达，且用UIUC大学邮箱注册可以免费试用一个月会员免配送费。如果住4B，跟室友分开时间订阅是可以白嫖一个学期会员的。
 
-可以参考的必须品列表：<img src="./README.assets/ZWP_necessary.jpg" alt="ZWP_necessary" style="zoom:33%;" />
+可以参考的必须品列表：
+<img src="./img/ZWP_necessary.jpg" alt="ZWP_necessary" style="zoom:33%;" />
 
 
 ### 购买食材
@@ -557,18 +585,23 @@ Pokelab。主打健康低卡的餐厅，可以自己搭配想吃什么bowl。其
 
 御膳房Dimsum House。粤菜，应该2024Fall学期开业的，装修很好，小贵。
 
+十全。绿街西。蟹黄拌面真的好吃啊。
+
+Aroma Garden 芳香园。在Urbana，Fall24学期突然成了大家聚餐喜欢去的地方。也是一家东北菜，锅包肉一定不要点新式的（哪有锅包肉用番茄酱的）。
+
+曹府火锅Cao's Hotpot。 人均30-40刀吧。不如海底捞，但是毕竟在国外，凑合凑合。
 
 
 
 根据人均消费，我个人给出的价格梯队是
 
-一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO、晚上的新四川，北味轩，御膳房
+一梯队（20刀以上）：老四川，功夫茶、麻辣烫、晚上的EVO、晚上的新四川，北味轩，御膳房，十全，芳香园
 
 二梯队（15-20刀）：蒲月巷、伊面园、Pokelab，重庆山庄
 
-三梯队（10-15刀）：万家香，上海菜，十秒到米线，中午的新四川
+三梯队（10-15刀）：万家香，上海菜午餐盒饭，十秒到米线，中午的新四川盒饭
 
-四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express、上海菜
+四梯队（10刀以下，快餐）：中午的EVO、HowWok、Panda Express
 
 
 
@@ -596,8 +629,7 @@ Dairy Queen. CC马路对面，快到Gather楼下了。这巨大一个汉堡是�
 BakeLab. Hugo Gather楼下. 感觉更像是早餐店或者brunch。
 
 Taco Bell. 墨西哥风味。CC对面和绿街上各有一家。在美国还蛮受欢迎的。我一般用Uber Eats提前点到店自取。
-
-Chipotle. 墨西哥版盒饭。每天晚上开到11点。去之前建议现在小红书上搜一下看看怎么点。这个点菜还挺麻烦的，但是味道不错。
+Chipotle. 墨西哥版盒饭。每天晚上开到11点。去之前建议现在小红书上搜一下看看怎么点。这个点菜还挺麻烦的，但是味道不错。[怎么点](https://www.youtube.com/watch?v=d5N25ICUW0o)
 
 Perkins. CC西边，NCSA北边。美式餐厅。比较fine-dining，适合朋友小聚。
 
@@ -615,7 +647,19 @@ Black Dog. Champaign downtown。美食烤肉，吃过的都说好，我没吃过
 
 Watson's Shack & Rail. Champaign downtown炸鸡华夫饼。吃的时候收到paper acceptance notification，必须五星。
 
+Olive Garden. 美国中产连锁意大利餐厅. 每道菜服务员会一直加cheese只到你说停。
 
+Sakanaya. 绿街上的中高端寿司店。人均30+了。有一些特色的寿司还蛮有新意的。人多的时候一定要点一个willis tower。不过店内很吵啊而且要提前取号预约。
+
+Subway+McDonald's. 挂壁快餐. 无须多言. 穷学生用优惠券买一个送一个吃一天.[怎么点](https://www.youtube.com/watch?v=Lf6rrFP4RMY)
+
+Shawarma Joint. 中东烤肉卷饼bowl. 我超爱. 不太好点餐，需要选base(regular rice, spicy rice)， protein(steak, gyro, regular chicken, spicy chicken)，五个toppings(有fried的东西，沙拉和菜)，和sauce(garlic, gyro, hot, tahini). Baklava中东油酥小点心也很好吃啊.
+
+歌志轩Kajiken，在绿街上，日式拉面（拌面，没汤的那种）。
+
+Raising Cane's. 美国人很喜欢的炸鸡店，夜里开到很晚。一般box combo够吃了(4个炸鸡条+一片吐司+薯条+蔬菜沙拉).
+
+Chick fil a. 北美留子有自己的妈祖. 祝大家一切顺利. [怎么点](https://www.youtube.com/watch?v=IvN4p8lKGhY).
 
 
 
@@ -634,13 +678,15 @@ Bookstore里的Starbucks
 
 老虎堂Tiger Sugar
 
-绿街南侧，愿茶。
+绿街南侧，Moge Tea愿茶。
 
 绿街和六街交叉口北30米Paris，有奶茶和可丽饼。可丽饼是真不戳。
 
 绿街上 Teamoji，UI做的也挺好看的，可以记一下饮品中英文对照名。
 
 oozu旁边Paris super crepes. 可丽饼一绝。
+
+Alma Meter对面的Cocomera. 主打冻酸奶. 
 
 <img src="img/teamoji/1.png" width = 75%>
 <img src="img/teamoji/2.png" width = 75%>
@@ -662,7 +708,7 @@ Veo在香槟有共享单车和共享电动车，价格小贵（自行车10分钟
 ### 打印服务
 
 ### 购物
-Urbana-Champaign西北Walmart
+Urbana-Champaign西北Walmart和Costco(Costco需要办会员卡)
 
 绿街上Target
 
@@ -673,6 +719,8 @@ Icon附近County Market
 Amazon
 
 华夏超市
+
+H Mart. 神.
 
 ### 上课的地方
 
@@ -709,7 +757,7 @@ Official Account(**subscribe!**): https://mp.weixin.qq.com/s/ZH58ftXI_6pu7ujAPe7
 
 * 想要暑研的同学应在Spring学期或更早联系教授进组。进组后可向教授要一份证明信，申请Academic Training，拿到extended DS2019。给教授的套磁邮件模板可参考：[套磁模板.pdf](file/ApplyResearch.pdf)
 
-* 3月左右，Erika会详细讲解关于Academic Training的事情。总之你只要拿到intern offer或进组了，那一定是能以AT的名义拿到extended DS2019，并以此在暑期留在美国的。
+* 3月左右，uiuc跟zjui协调的协调员会详细讲解关于Academic Training的事情。总之你只要拿到intern offer或进组了，那一定是能以AT的名义拿到extended DS2019，并以此在暑期留在美国的。
 
 ### 申请SSN
 书接上回，准备好三样东西即可申请SSN：
